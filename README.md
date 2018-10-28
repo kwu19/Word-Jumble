@@ -1,6 +1,6 @@
 # Word-Jumble
 
-##Anagrams and Word Jumbles 
+## Anagrams and Word Jumbles 
 
 A [word jumble](https://en.wikipedia.org/wiki/Jumble) is a word game where a randomized series of characters must be rearranged to spell a particular (English) word. For example the jumble `"plaep"` can be decoded as `"apple"`.
 
